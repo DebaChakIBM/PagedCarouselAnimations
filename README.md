@@ -23,5 +23,5 @@ Present in the Extensions folder
  
     All of these are mandatory variables 
 
-  The swipeEventHandler is an optional variable and can be used or not 
+  - `swipeEventHandler` : This is an optional argument that can be used to track which indec is currently being visible
   The sample of this addition can be viewed in `ContentView.swift` file 
